@@ -1,0 +1,8 @@
+{
+  "name": "PerceptAI Workbench",
+  "description": "A centralized workbench for AI-powered visual and document analysis workflows.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": []
+}
